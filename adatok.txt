@@ -1,0 +1,9 @@
+Real Sociedad ==> 3
+Athletic Bilbao ==> 7
+Valencia ==> 5
+Osasuna ==> 14
+Celta Vigo ==> 0
+Rayo Vallecano ==> 11
+Elche ==> 12
+Espanyol ==> 13
+Getafe ==> 8
